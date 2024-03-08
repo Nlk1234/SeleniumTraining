@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T12:18:51 IST" name="Suite" finished-at="2024-03-07T12:20:18 IST" duration-ms="87319">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T12:18:51 IST" name="Test" finished-at="2024-03-07T12:20:18 IST" duration-ms="87319">
+      <class name="Beauty.Launchpurplle_Test">
+        <test-method signature="purplle()[pri:0, instance:Beauty.Launchpurplle_Test@6293abcc]" started-at="2024-03-07T12:18:51 IST" name="purplle" finished-at="2024-03-07T12:19:27 IST" duration-ms="36312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purplle -->
+      </class> <!-- Beauty.Launchpurplle_Test -->
+      <class name="Beauty.LunchSugar_Test">
+        <test-method signature="launch()[pri:0, instance:Beauty.LunchSugar_Test@7995092a]" started-at="2024-03-07T12:19:27 IST" name="launch" finished-at="2024-03-07T12:20:09 IST" duration-ms="41802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Beauty.LunchSugar_Test -->
+      <class name="Beauty.LaunchLorel_Test">
+        <test-method signature="launch()[pri:0, instance:Beauty.LaunchLorel_Test@7fc2413d]" started-at="2024-03-07T12:20:09 IST" name="launch" finished-at="2024-03-07T12:20:18 IST" duration-ms="9137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- Beauty.LaunchLorel_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
